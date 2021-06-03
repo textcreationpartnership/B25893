@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend in the country Giving an account of the proceedings of the election of Parliament-men for the city of London, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25893</idno><idno type="EEBO-CITATION">99828240</idno>
+  <idno type="VID">207572</idno>
+  <idno type="EEBO-PROQUEST">2248499492</idno>
+  
+            <idno type="STC">Wing L1650A</idno>
+            <idno type="PROQUEST">99828240</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828240e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207572)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1912:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend in the country Giving an account of the proceedings of the election of Parliament-men for the city of London, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Dated at end: London, Feb. 21. 1690.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Elections --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:207572:1"/>
+            <pb facs="tcp:207572:1"/>
+            <head>A LETTER TO A FRIEND in the COUNTRY.</head>
+            <head type="sub">Giving an Account of the Proceedings of the Election of Parliament-Men for the City of <hi>LONDON,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I AM Debtor to you by Promise in my last to send you an Account of the Pro<g ref="char:EOLhyphen"/>ceedings of our Election for Parliament<g ref="char:EOLhyphen"/>men for this City, by this Post; which be pleased to take as follows. By the last I told you the Candidates Names, and the Interest that were made for the <hi>Late Members,</hi> and for the <hi>New Ones.</hi> I told you, that on <hi>Wednesday</hi> the Day of opening the Writ, there was a larger Appearance for the New Persons, viz. Sir <hi>W. Turner,</hi> Sir <hi>W. Pritchard,</hi> Sir <hi>S. Dashwood,</hi> and Sir <hi>T. Vernon,</hi> then was imagined, or foreseen even by their own friends; it was then judged that they had the most Hands: and the Poll was demanded by the Friends and Party of the <hi>late Members.</hi> The Poll was carried on that Day and <hi>Thursday,</hi> and then put off by Adjourn<g ref="char:EOLhyphen"/>ment till Two of the Clock yesterday, being <hi>Friday;</hi> but the Books were not open till Four, at which time they proceeded till a little after Five, and having stayed for some time, and no person offering to Poll for some time, yet the Sheriff declared that the Books should not be Clos'd up that Night; and mightily won<g ref="char:EOLhyphen"/>der'd, that the Citizens did not withdraw and leave the Hall, which he said was the Reason of his Declaration; but the Hall was not the emptier for his Speech, since he continued for half an hour after to take the Poll, tho' few came, and for some time none, it was then debated about the Adjournment thereof, and Sir <hi>R.C.</hi> (knowing the trouble of the Place, and therefore desires it not) said he must, be out of Town this day, being <hi>Saturday,</hi> and therefore desired it might be put off for some longer time, some urged for <hi>Munday,</hi> but that was over-ruled, and the further Poll was adjourned till <hi>Tuesday</hi> next, three a Clock, with this further Expression, (of the Officer that made the Proclamation) that the Books would be clo<g ref="char:EOLhyphen"/>sed up at Five of the Clock that Evening, at, or before the Adjournment: The new Candidates that were there, demanded of the Sheriffs, that the Poll might be carried on <hi>de die in diem,</hi> till it were closed, and took witness of such their demand, but it could not be obtained, nor would it be allowed to proceed on the Poll before the day aforesaid, altho' desired by several Eminent Citizens; As to the Number of Votes by Com<g ref="char:EOLhyphen"/>putation of most People that have observed the Electors give their voices, it goes much for the new ones, and the side of those that are true Church of <hi>England</hi>-men, and for whom the Members of that Church have shewn themselves Zealous and Mostly Unanimous; tho' it may be modestly Computed that one fourth part, that are for the old Ones are not dissenters in any thing from the Church of <hi>England,</hi> but in Ele<g ref="char:EOLhyphen"/>ctions, and such State-matters; having now gi<g ref="char:EOLhyphen"/>ven you the Particulars that occur to me of our Election; I must take notice of what you tell me of the unknown Person, that came down into your Country with a Printed List of Names of Members of the late Parliament, that preten<g ref="char:EOLhyphen"/>ded that those Persons therein named, were a<g ref="char:EOLhyphen"/>gainst making the Prince and Princess of <hi>Orange</hi> King and Queen of <hi>England,</hi> the Paper has been about the Town, and not regarded by men of any sense; for it is well known, that all those Persons have sworn Allegiance to their Majesties, and that several of them have testified their af<g ref="char:EOLhyphen"/>fection over and over to the present Settlement, and tho' (as you say) he left several Lists, and told the Persons to whom they were delive<g ref="char:EOLhyphen"/>red, that it was his Majesties Pleasure, and Command, that those Persons be not Chosen; Yet, as I perceive, you easily found out the Cheat, and put those persons to Rights that were surprised with such stories, and I do also assure you, that it would have been for the Service of the King and Government, if you as your intentions were, had come timely enough, to have seized the spreaders of such false Stories and Calumnies. And thus, <hi>SIR,</hi> I have in short given you the Truth of Matter of Fact, and am <hi>SIR,</hi> Your most Ob<g ref="char:EOLhyphen"/>liged Humble Servant.</p>
+            <div type="postscript">
+               <head>POST-SCRIPT.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Have just now Advice that a Party of our Unkilling Horse are gone out, to bring in a strong Party from the Country to Poll; and they are to be here by <hi>Tuesday</hi> Noon at far<g ref="char:EOLhyphen"/>thest: and some think this may be the greatest Service this Body of Horse will be put to. The Event hereof you may expect by <hi>Tuesday</hi> Post.</p>
+               <closer>
+                  <dateline>
+                     <hi>London,</hi>
+                     <date>
+                        <hi>Feb.</hi> 21. 1690.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
